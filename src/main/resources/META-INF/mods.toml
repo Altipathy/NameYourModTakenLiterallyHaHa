@@ -1,0 +1,11 @@
+
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="mcheros"
+version="${file.jarVersion}"
+displayName="Nyf's Forge Template"
+authors="TheNyfaria"
+description='''
+'''
